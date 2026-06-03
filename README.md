@@ -22,3 +22,6 @@ Open your computer's Terminal or Command Prompt, navigate to this project folder
 
 ```bash
 pip install streamlit pandas joblib google-generativeai
+
+```bash
+python -m streamlit run app.py
